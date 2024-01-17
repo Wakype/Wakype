@@ -1,5 +1,7 @@
-<p align="center"><img src="https://github.com/Wakype/Wakype/assets/94674924/2bfcb05c-ef7f-45f7-a84e-3691f7fd0539"/></p>
+<p align="center"><img src="https://github.com/Wakype/Wakype/assets/94674924/d9e9aba4-ebe6-400f-9095-cc885cfc7aa9"/></p>
+
 <h1>Hi 👋, I'm Waky (Hilmi)</h1>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=25&duration=3000&pause=200&color=7500F7&background=FFFFFF00&width=435&lines=kurukuru.netlify.app;github.com%2Fwakype)](https://kurukuru.netlify.app)
 
