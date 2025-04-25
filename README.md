@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=25&duration=3000&pause=200&color=7500F7&background=FFFFFF00&width=435&lines=kurukuru.netlify.app;github.com%2Fwakype)](https://kurukuru.netlify.app)
 
 ![](https://komarev.com/ghpvc/?username=wakype&color=7500F7)<br>
-Hello everyone! I am Muhammad Hilmi, and I am from Indonesia, currently a third-year Fullstack Developer Student at SMK Madinatul Quran. I am good at developing a website with the ReactJS framework and a mobile app with Flutter. Next, I am looking for an internship program where I can develop my skills, knowledge, and connections so that I can increase my experience and expertise
+A software engineer with over a year of experience, currently a first-year student at the University of Pancasila. Loving code and video editing. Skilled in using ReactJS, and NextJS. Combining what I learn at college with real-world experiences and enjoy learning new things to create innovative software solutions.
 
 - 🌱 I’m currently learning **Nest.js, Python, Flutter**
 
