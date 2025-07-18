@@ -1,20 +1,17 @@
 <p align="center"><img src="https://github.com/Wakype/Wakype/assets/94674924/d9e9aba4-ebe6-400f-9095-cc885cfc7aa9"/></p>
 
-<h1>Hi 👋, I'm Waky (Hilmi)</h1>
+<h1>Hi 👋, you can call me Waky</h1>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=25&duration=3000&pause=200&color=7500F7&background=FFFFFF00&width=435&lines=kurukuru.netlify.app;github.com%2Fwakype)](https://kurukuru.netlify.app)
 
 ![](https://komarev.com/ghpvc/?username=wakype&color=7500F7)<br>
-A software engineer with over a year of experience, currently a first-year student at the University of Pancasila. Loving code and video editing. Skilled in using ReactJS, and NextJS. Combining what I learn at college with real-world experiences and enjoy learning new things to create innovative software solutions.
+A software engineer with over a year of experience, currently a first-year student uni. Loving code and video editing. Skilled in using ReactJS and NextJS. Combining what I learn at college with real-world experiences and enjoying learn new things to create innovative software solutions.
 
-- 🌱 I’m currently learning **Nest.js, Python, Flutter**
-
-- 💬 Ask me about **React.js, Next.js, Express.js**
-
-- 📫 How to reach me **hilmim152bisnis@gmail.com**
-
-- ⚡ Useless fact **I'm 18 🫡 and like Valorant**
+- 🌱 I’m currently learning **Next.js, Python, Flutter, C++**
+- 💬 Ask me about **Game hacking**
+- 📫 How to reach me **waky.dev@gmail.com**
+- ⚡ Useless fact **Creating hacks**
   <br>
   <br>
 
