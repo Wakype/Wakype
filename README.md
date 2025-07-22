@@ -48,6 +48,21 @@
 
 ---
 
+### 💖 Support Me
+
+If you find my work helpful or you want to support me, you can buy me a coffee! I would greatly appreciate any support.
+
+<p align="center">
+  <a href="https://saweria.co/wakype" target="_blank">
+    <img src="https://img.shields.io/badge/Trakteer%20di%20Saweria-F8B400?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Support on Saweria">
+  </a>   
+  <a href="https://ko-fi.com/wakype" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support on Ko-fi">
+  </a>
+</p>
+
+---
+
 ### 🌐 Let's Connect
 
 <p align="center">
@@ -57,8 +72,4 @@
   <a href="mailto:hilmim152bisnis@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=full&height=150§ion=footer"/>
 </p>
