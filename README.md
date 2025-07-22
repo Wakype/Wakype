@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Wakype/Wakype/assets/94674924/d9e9aba4-ebe6-400f-9095-cc885cfc7aa9"/></p>
+<p align="center"><img width=400 src="https://github.com/Wakype/Wakype/assets/94674924/d9e9aba4-ebe6-400f-9095-cc885cfc7aa9"/></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/born-2-code/born-2-code/main/assets/header.gif" width="100%" alt="Header GIF"/>
