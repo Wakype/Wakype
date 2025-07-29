@@ -40,14 +40,6 @@
 
 ---
 
-### 🐍 My Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Wakype/Wakype/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
----
-
 ### 💖 Support Me
 
 If you find my work helpful or you want to support me, you can buy me a coffee! I would greatly appreciate any support.
