@@ -33,7 +33,7 @@
 
 ### 🚀 What I'm Up To
 
-- 🔭   I’m currently building **osu!pilot**.
+- 🔭   I’m currently building **osu!pilot** & **Mugenime**.
 - 🌱   I’m currently learning **C++ and Python**.
 
 ---
