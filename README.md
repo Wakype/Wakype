@@ -6,16 +6,16 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Wakype!</h1></summary>
+    <summary><h1>I'm Wakype!</h1></summary>
   </ul>
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Wakype"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&center=true&duration=3000&pause=700&width=500&lines=I'm+using+Arch+btw.;Don't+forget+to+push+node_modules+too+:)" alt="Typing SVG" /></a>
-</p>
+</p> -->
 
 <p align="center">
-  A software engineer with over a year of experience, currently a first-year student uni. Loving code and video editing. Skilled in using ReactJS and NextJS. Combining what I learn at college with real-world experiences and enjoying learn new things to create innovative software solutions. Below are some of the technologies I enjoy working with.
+  I like to code and play osu! (bruh)
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 <!-- Skill Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,py,git,github,figma,tailwind,ae,cpp,flutter,dart,mysql,vscode,visualstudio&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,py,tailwind,cpp,flutter,mysql,postgresql&perline=6" />
   </a>
 </p>
 
@@ -35,8 +35,6 @@
 
 - 🔭   I’m currently building **osu!pilot**.
 - 🌱   I’m currently learning **C++ and Python**.
-- 👯   I’m looking to collaborate on **Open Source** projects.
-- 📫   Let's connect: **hilmim152bisnis@gmail.com**
 
 ---
 
