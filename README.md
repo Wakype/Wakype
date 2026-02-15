@@ -25,7 +25,7 @@
 <!-- Skill Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,py,tailwind,cpp,flutter,mysql,postgresql&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,py,tailwind,cpp,cs,unity,flutter,mysql,postgresql&perline=7" />
   </a>
 </p>
 
