@@ -31,13 +31,6 @@
 
 ---
 
-### 🚀 What I'm Up To
-
-- 🔭   I’m currently building **osu!pilot** & **Mugenime**.
-- 🌱   I’m currently learning **C++ and Python**.
-
----
-
 ### 💖 Support Me
 
 If you find my work helpful or you want to support me, you can buy me a coffee! I would greatly appreciate any support.
